@@ -1,4 +1,5 @@
 # NWD z odejmowaniem iteracyjnym 
+
 def NWD(a, b):
     while a != b:
         if a > b:
